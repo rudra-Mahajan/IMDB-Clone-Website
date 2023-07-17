@@ -1,0 +1,27 @@
+.about{
+    margin: 100px;
+    padding: 20px;
+    background-color: #e0a80d;
+    color: black;
+}
+.technologies{
+    margin: 30px;
+}
+
+.border{
+    border: 2px dashed red;
+    margin: 20px;
+}
+.techtypes{
+    margin: 50px;
+}
+.portfolio{
+    padding: 10px;
+}
+.portfolio a{
+    text-decoration: none;
+    color: rgb(30, 6, 85);
+}
+.portfolio a :hover{
+    color: red;
+}
